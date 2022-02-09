@@ -1,6 +1,7 @@
 /vendor/
 /bin/vendor/
-
+/node_modules/
+/dist/
 /.idea/
 /.psh.yaml.override
 /.php_cs.cache
