@@ -1,6 +1,6 @@
 ### Introduction
 
-This is [Mazer Dashboard](https://github.com/zuramai/mazer) in Vue Js.
+This is [Vroom-Dashboard](https://templates.iqonic.design/lite/vroom/html/dist/dashboard/) in Vue Js.
 
 The project is helpful to start your next project, as it provides a lot of the common tools you may reach for, all ready to go.
 
@@ -14,7 +14,6 @@ The project is helpful to start your next project, as it provides a lot of the c
 - Modules/Components organized across folders.
 - Base pages (like Dashboard/404 etc).
 - Pre-configured with code quality tools: Prettier, Jest, etc.
-- [Mazer UI](https://github.com/zuramai/mazer) included.
 - Axios Interceptors.
 - [Notifcations](https://github.com/dafcoe/vue-notification).
 
@@ -27,6 +26,6 @@ npm run dev
 ```
 ### Demo
 
-This is [DEMO](https://vue-mazer-dashboard.netlify.app/admin/dashboard)
+This is [DEMO](https://6203a01ada891618a460af21--vigilant-ramanujan-b18003.netlify.app/admin/dashboard)
 # mobile
 "# Vue-Vroom-Dashboard" 
